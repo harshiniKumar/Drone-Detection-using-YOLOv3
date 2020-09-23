@@ -1,5 +1,5 @@
-# Drone-Detection-using-YOLOv3
-A model to detect drones from images,videos and live stream.
+# Drone-Detection
+Detect drones from input image, video or real-time feed.
 
 ## Requirements
 
@@ -103,3 +103,8 @@ Compute the mAP performance of the model defined in saved_weights_name on the va
    > ```
 
 ## OUTPUT
+
+Demo:
+
+![](https://github.com/harineemira/Drone_Detection/blob/master/Outputs/Drone-Detection-Demo.gif)
+- Download the [sample output for drone detection in a video.](https://github.com/harineemira/Drone_Detection/blob/master/Outputs/Drone_Video_Detection.mp4?raw=true)
